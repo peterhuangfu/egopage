@@ -8,8 +8,15 @@ class Section extends Component {
 
   render() {
     return (
-      <section>
-        <div>Hi this is test.</div>
+      <section className="main-intro">
+        <div className="avatar-container">
+          <img src="/imgs/avatar2.jpg" alt="Avatar"/>
+        </div>
+        <div className="self-intro">
+          {/* <div className="pre-text"></div> */}
+          <span className="about-me">About Me</span><br />
+          <span className="about-text">Hi, My name is Hunag Fu Li-Hsiang.</span>
+        </div>
       </section>
     )
   }

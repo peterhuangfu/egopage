@@ -1,0 +1,53 @@
+.main-intro {
+  width: 50%;
+  height: 800px;
+  position: relative;
+  left: 25vw;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: 15vh;
+}
+
+.avatar-container {
+  width: 45%;
+  height: auto;
+  min-width: 150px;
+}
+
+.avatar-container img {
+  width: 100%;
+  height: auto;
+}
+
+.self-intro {
+  width: 50%;
+  height: auto;
+  min-width: 150px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.self-intro span {
+  width: 100%;
+}
+
+.pre-text {
+  width: 8px;
+  height: 35px;
+  background-color: #122f42;
+}
+
+.about-me {
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 20px;
+}
+
+.about-text {
+  font-size: 16px;
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0 0 0 20px;
+}

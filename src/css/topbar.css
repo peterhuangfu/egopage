@@ -1,7 +1,7 @@
 .top-picture-container {
   width: 100%;
   height: auto;
-  min-height: 800px;
+  min-height: calc(50vh + 400px);
   max-height: 100vh;
   background: url('/imgs/starsky.jpg') no-repeat;
   background-size: cover;
