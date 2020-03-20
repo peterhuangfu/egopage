@@ -1,26 +1,24 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react';
+import { BrowserRouter as Router } from 'react-router-dom';
+import Intro from './components/intro';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component{
+  constructor(props) {
+    super();
+    const url = window.location.origin;
+
+    if (!url.includes('localhost') && !url.includes('https')) {
+      window.location = `https:${url.split(':')[1]}`;
+    }
+  }
+
+  render() {
+    return (
+      <Router>
+        <Intro />
+      </Router>
+    );
+  }
 }
 
 export default App;
