@@ -1,5 +1,6 @@
 module.exports = [
-  { title: 'Independent Study - Music Separation and Transcription',
+  { 
+    title: 'Independent Study - Music Separation and Transcription',
     image: '/imgs/music.jpg',
     position: 'Collaborated with 5 members, Feb 2019 - Dec 2019',
     location: 'National Taiwan University',
@@ -11,7 +12,8 @@ module.exports = [
       'Built the server that was used for separating and transcribing by Django with other members.'
     ] 
   },
-  { title: 'Pilot Scheduling System',
+  { 
+    title: 'Pilot Scheduling System',
     image: '/imgs/ship.png',
     position: 'Frontend Developer, Jun 2018 - Feb 2019',
     location: 'National Taiwan University',
@@ -20,7 +22,8 @@ module.exports = [
       'Built the website of its administrator side which included multiple functions such as managing schedules and inspecting operation records.'
     ] 
   },
-  { title: 'Personal Instagram Analysis Platform - KOL',
+  { 
+    title: 'Personal Instagram Analysis Platform - KOL',
     image: '/imgs/kol.png',
     position: 'Frontend Developer and half Backend Developer, Jul 2019 - Oct 2019',
     location: 'Taipei, Taiwan',
@@ -29,7 +32,8 @@ module.exports = [
       'Let user be able to become spokesperson by cooperating with advertisers on this platform.'
     ] 
   },
-  { title: 'Statistical Issue Analysis - PM 2.5',
+  { 
+    title: 'Statistical Issue Analysis - PM 2.5',
     image: '/imgs/pm25.png',
     position: 'Collaborated with 5 members, May 2018 - Jun 2018',
     location: 'National Taiwan University',
@@ -39,7 +43,8 @@ module.exports = [
       'Adopted linear regression and time series as analysis methods.'
     ] 
   },
-  { title: 'Basic Network Communication - Socket',
+  { 
+    title: 'Basic Network Communication - Socket',
     image: '/imgs/socket.png',
     position: 'Individual Work, Dec 2018 - Jan 2019',
     location: 'National Taiwan University',

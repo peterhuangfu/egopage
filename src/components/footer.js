@@ -15,7 +15,7 @@ class Footer extends Component {
         <div className="contact-info-container">
           <div className="contact-info" style={{ width: '240px' }}>
             <EmailIcon />
-            <span>b05705042@ntu.edu.tw</span>
+            <span>r09725036@ntu.edu.tw</span>
           </div>
           <div className="contact-info" style={{ width: '150px' }}>
             <GitHubIcon />
