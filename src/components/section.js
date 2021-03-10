@@ -21,14 +21,14 @@ class Section extends Component {
             <div className="self-intro">
               <span className="about-me">Education</span>
               <span className="about-text medium">National Tawian University</span>
-              <span className="about-text small"><i>Bachelor of Information Management</i></span>
-              <span className="about-text small date"><i>Sept 2016 - Jun 2020</i></span>
+              <span className="about-text small"><i>Master of Information Management</i></span>
+              <span className="about-text small date"><i>Sept 2020 - </i></span>
 
               <div style={{ width: '100%' }}></div>
 
               <span className="about-text medium">National Tawian University</span>
-              <span className="about-text small"><i>Master of Information Management</i></span>
-              <span className="about-text small date"><i>Sept 2020 - </i></span>
+              <span className="about-text small"><i>Bachelor of Information Management</i></span>
+              <span className="about-text small date"><i>Sept 2016 - Jun 2020</i></span>
             </div>
           </Fade>
         </div>

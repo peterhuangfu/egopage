@@ -13,6 +13,16 @@ module.exports = [
     ] 
   },
   { 
+    title: 'Personal Instagram Analysis Platform - KOL',
+    image: '/imgs/kol.png',
+    position: 'Frontend Developer and half Backend Developer, Jul 2019 - Oct 2019',
+    location: 'Taipei, Taiwan',
+    description: [
+      'Help Instagram commercial users understand their current business circumstances.',
+      'Let user be able to become spokesperson by cooperating with advertisers on this platform.'
+    ] 
+  },
+  { 
     title: 'Pilot Scheduling System',
     image: '/imgs/ship.png',
     position: 'Frontend Developer, Jun 2018 - Feb 2019',
@@ -23,13 +33,13 @@ module.exports = [
     ] 
   },
   { 
-    title: 'Personal Instagram Analysis Platform - KOL',
-    image: '/imgs/kol.png',
-    position: 'Frontend Developer and half Backend Developer, Jul 2019 - Oct 2019',
-    location: 'Taipei, Taiwan',
+    title: 'Basic Network Communication - Socket',
+    image: '/imgs/socket.png',
+    position: 'Individual Work, Dec 2018 - Jan 2019',
+    location: 'National Taiwan University',
     description: [
-      'Help Instagram commercial users understand their current business circumstances.',
-      'Let user be able to become spokesperson by cooperating with advertisers on this platform.'
+      'Programmed with C++ and encrypted with SSL.',
+      'Completed with both client / server side so that the two sides can communicate and multiple clients can also make it with one server.'
     ] 
   },
   { 
@@ -41,16 +51,6 @@ module.exports = [
       'Analyzed the seasonal change of PM 2.5 and the trend of its annual increasing with language R.',
       'Targeted the survey location and chose Daan Dist., Taipei City. (Data Source : CWB)',
       'Adopted linear regression and time series as analysis methods.'
-    ] 
-  },
-  { 
-    title: 'Basic Network Communication - Socket',
-    image: '/imgs/socket.png',
-    position: 'Individual Work, Dec 2018 - Jan 2019',
-    location: 'National Taiwan University',
-    description: [
-      'Programmed with C++ and encrypted with SSL.',
-      'Completed with both client / server side so that the two sides can communicate and multiple clients can also make it with one server.'
     ] 
   }
 ]
