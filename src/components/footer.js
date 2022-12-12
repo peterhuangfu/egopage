@@ -13,7 +13,7 @@ class Footer extends Component {
     return (
       <footer>
         <div className="contact-info-container">
-          <div className="contact-info" style={{ width: '280px' }}>
+          <div className="contact-info" style={{ width: '270px' }}>
             <EmailIcon />
             <span>nightlight870213@gmail.com</span>
           </div>
