@@ -17,7 +17,7 @@ class Section extends Component {
       <section className="main-intro" id="main-section">
         <div className="intro-container">
           <Fade bottom>
-            <img className="avatar" src="/imgs/avatar.jpg" alt="Avatar" />
+            <img className="avatar" src="/imgs/IMG_0001.jpg" alt="Avatar" />
             <div className="self-intro">
               <span className="about-me">Education</span>
               <span className="about-text medium">National Tawian University</span>
