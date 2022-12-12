@@ -24,8 +24,8 @@ class Topbar extends Component {
         <Fade left cascade>
           <div className="intro">
             <div className="intro1">Hi, I'm</div>
-            <div className="name"><b>Huang Fu Li-Hsiang</b></div>
-            <div className="intro2">Full Stack Developer Intern</div>
+            <div className="name"><b>Huang Fu Li Hsiang</b></div>
+            <div className="intro2">Full Stack Developer</div>
           </div>
         </Fade>
         <Link to="main-section" smooth={true} duration= {500}>
