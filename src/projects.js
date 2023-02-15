@@ -35,7 +35,7 @@ module.exports = [
   { 
     title: 'The Lost Child - Game Programming',
     image: '/imgs/lostchild.jpeg',
-    position: 'Frontend Developer, Oct 2020 - Dec 2020',
+    position: 'Collaborated with 3 members, Oct 2020 - Dec 2020',
     location: 'National Taiwan University',
     description: [
       'Project of the lesson - Game Programming.',
