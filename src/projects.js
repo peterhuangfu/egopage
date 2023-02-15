@@ -33,6 +33,17 @@ module.exports = [
     ] 
   },
   { 
+    title: 'The Lost Child - Game Programming',
+    image: '/imgs/lostchild.jpeg',
+    position: 'Frontend Developer, Oct 2020 - Dec 2020',
+    location: 'National Taiwan University',
+    description: [
+      'Project of the lesson - Game Programming.',
+      'Developed a Metroidvania game involving battle and puzzle via Unity.',
+      'The link of the demo video can be found here -- https://youtu.be/C0IWvoMxxP8'
+    ] 
+  },
+  { 
     title: 'Old Gamer - Gaming Forum',
     image: '/imgs/oldgamer.png',
     position: 'Frontend Developer, April 2021 - June 2021',
