@@ -34,7 +34,7 @@ module.exports = [
   },
   { 
     title: 'The Lost Child - Game Programming',
-    image: '/imgs/lostchild.jpeg',
+    image: '/imgs/lostchild.png',
     position: 'Collaborated with 3 members, Oct 2020 - Dec 2020',
     location: 'National Taiwan University',
     description: [
